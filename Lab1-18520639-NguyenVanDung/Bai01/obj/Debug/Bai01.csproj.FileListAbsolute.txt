@@ -1,0 +1,21 @@
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.Form1.resources
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Bai01\Bai01\bin\Debug\Bai01.exe.config
+C:\Users\ADMIN\source\repos\Bai01\Bai01\bin\Debug\Bai01.exe
+C:\Users\ADMIN\source\repos\Bai01\Bai01\bin\Debug\Bai01.pdb
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.exe
+C:\Users\ADMIN\source\repos\Bai01\Bai01\obj\Debug\Bai01.pdb
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\bin\Debug\Bai01.exe.config
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\bin\Debug\Bai01.exe
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\bin\Debug\Bai01.pdb
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.csproj.SuggestedBindingRedirects.cache
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.Form1.resources
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.exe
+D:\DELL\Lập trình mạng căn bản\Lab1-18521306-DoAnhQuoc\Bai01\obj\Debug\Bai01.pdb
