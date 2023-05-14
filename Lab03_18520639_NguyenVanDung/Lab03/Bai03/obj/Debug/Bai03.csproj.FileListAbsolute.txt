@@ -1,0 +1,11 @@
+D:\LapTrinhMang\Lab03\Bai03\bin\Debug\Bai03.exe.config
+D:\LapTrinhMang\Lab03\Bai03\bin\Debug\Bai03.exe
+D:\LapTrinhMang\Lab03\Bai03\bin\Debug\Bai03.pdb
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.Bai03.resources
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.TCPclient.resources
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.TCPsever.resources
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.exe
+D:\LapTrinhMang\Lab03\Bai03\obj\Debug\Bai03.pdb

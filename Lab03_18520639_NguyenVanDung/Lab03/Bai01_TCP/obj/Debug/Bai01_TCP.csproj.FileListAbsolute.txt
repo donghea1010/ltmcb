@@ -1,0 +1,12 @@
+D:\LapTrinhMang\Lab03\Bai01_TCP\bin\Debug\Bai01_TCP.exe.config
+D:\LapTrinhMang\Lab03\Bai01_TCP\bin\Debug\Bai01_TCP.exe
+D:\LapTrinhMang\Lab03\Bai01_TCP\bin\Debug\Bai01_TCP.pdb
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.csprojAssemblyReference.cache
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.Dashbroad.resources
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.Properties.Resources.resources
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.TCPclient.resources
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.TCPsever.resources
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.exe
+D:\LapTrinhMang\Lab03\Bai01_TCP\obj\Debug\Bai01_TCP.pdb

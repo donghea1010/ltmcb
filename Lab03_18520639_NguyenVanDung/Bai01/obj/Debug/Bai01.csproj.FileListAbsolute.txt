@@ -1,0 +1,11 @@
+D:\LapTrinhMang\Lab03\Bai01\bin\Debug\Bai01.exe.config
+D:\LapTrinhMang\Lab03\Bai01\bin\Debug\Bai01.exe
+D:\LapTrinhMang\Lab03\Bai01\bin\Debug\Bai01.pdb
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.UDP.resources
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.UDPsever.resources
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.exe
+D:\LapTrinhMang\Lab03\Bai01\obj\Debug\Bai01.pdb
