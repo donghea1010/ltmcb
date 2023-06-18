@@ -1,0 +1,21 @@
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\bin\Debug\Menu.exe
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\bin\Debug\Menu.pdb
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.Menu.resources
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.exe
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.pdb
+D:\Thanh\Tài liệu học năm 2\Lập trình mạng căn bản\Lad5\Menu\Menu\obj\Debug\Menu.Bai1.resources
+D:\LapTrinhMang\Menu\Menu\bin\Debug\Menu.exe.config
+D:\LapTrinhMang\Menu\Menu\bin\Debug\Menu.exe
+D:\LapTrinhMang\Menu\Menu\bin\Debug\Menu.pdb
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.Bai1.resources
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.exe
+D:\LapTrinhMang\Menu\Menu\obj\Debug\Menu.pdb

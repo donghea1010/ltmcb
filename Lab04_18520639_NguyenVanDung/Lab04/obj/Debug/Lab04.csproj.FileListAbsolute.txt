@@ -1,0 +1,10 @@
+D:\LapTrinhMang\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\LapTrinhMang\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\LapTrinhMang\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.Bai01.resources
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.pdb
+D:\LapTrinhMang\Lab04\Lab04\obj\Debug\Lab04.Menu.resources

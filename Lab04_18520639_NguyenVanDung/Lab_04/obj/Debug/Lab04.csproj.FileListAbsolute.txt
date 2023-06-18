@@ -1,0 +1,19 @@
+D:\LapTrinhMang\Lab04\Lab_04\bin\Debug\Lab_04.exe.config
+D:\LapTrinhMang\Lab04\Lab_04\bin\Debug\Lab_04.exe
+D:\LapTrinhMang\Lab04\Lab_04\bin\Debug\Lab_04.pdb
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab04.csprojAssemblyReference.cache
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.Bai01.resources
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.Bai02.resources
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.Menu.resources
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.Properties.Resources.resources
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.exe
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.pdb
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.Bai03.resources
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab_04.Bai04.resources
+D:\LapTrinhMang\Lab04\Lab_04\bin\Debug\Newtonsoft.Json.dll
+D:\LapTrinhMang\Lab04\Lab_04\bin\Debug\Newtonsoft.Json.xml
+D:\LapTrinhMang\Lab04\Lab_04\obj\Debug\Lab04.csproj.CopyComplete
+D:\DELL\Lập trình mạng căn bản\Lab04\Lab_04\obj\Debug\Lab_04.exe
+D:\DELL\Lập trình mạng căn bản\Lab04\Lab_04\obj\Debug\Lab_04.pdb
